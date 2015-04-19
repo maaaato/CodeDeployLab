@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo yum -y install httpd
+yum install -y httpd
