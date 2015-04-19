@@ -10,5 +10,5 @@ hooks:
       runas: root
     - location: scripts/httpd_start.sh
       timeout: 300
-      runs: root
+      runas: root
       
